@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView txv = findViewById(R.id.txv);
-        txv.setText("Hello 你好啊~");
+        txv.setText("Hello 我是姚奕廷");
         //TestMaster();
     }
 
